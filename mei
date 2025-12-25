@@ -1,0 +1,4 @@
+git init
+git remote add origin C:\Users\User\streamlit_meilani\streamlit_app.py
+git branch -M main
+git push -u origin main
